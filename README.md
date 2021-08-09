@@ -14,3 +14,5 @@ The COUNT function was useful to create a Retiring Titles table that shows the n
 
 To identify the employees who are eligible to participate in a mentorship program, I created a Mentorship Eligibility table that holds the employees who were born between January 1, 1965, and December 31, 1965. On the other hand, One of the most interesting things in the table down that most of these employees have senior titles.
 ![img](https://github.com/Edgarhv/Pewlett-Hackard-Analysis/blob/02f6bcd73ee02922adad47c61f67b4edfe59fc12/mentorship_eligibilty.png)
+
+### Summary:
