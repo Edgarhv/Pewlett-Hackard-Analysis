@@ -16,3 +16,5 @@ To identify the employees who are eligible to participate in a mentorship progra
 ![img](https://github.com/Edgarhv/Pewlett-Hackard-Analysis/blob/02f6bcd73ee02922adad47c61f67b4edfe59fc12/mentorship_eligibilty.png)
 
 ### Summary:
+
+According to retiring title table there are 90,398 roles will need to be filled as the employees begin to retire. If we want to create a new query we can the total number of employees of the company. we can see how many jobs will remain filled and how many need to be filled. Also, we will see that there are not exactly be enough people in the workforce to take care of the tasks or even come close to the amount of experience to fill these roles so quickly. Finally, There are not enough mentors to effectively train the next generation and I would recommend expanding the eligibilty date for mentors in order to increase the amount of mentors.
