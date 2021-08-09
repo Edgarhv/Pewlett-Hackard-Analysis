@@ -1,3 +1,3 @@
 # Pewlett-Hackard-Analysis
-SQL
-QualifiedNauticalBluet-mobile.gif
+![img](QualifiedNauticalBluet-mobile.gif)
+Resource:https://gfycat.com/qualifiednauticalbluet-chuck-parks-music
